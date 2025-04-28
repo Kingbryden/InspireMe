@@ -43,6 +43,7 @@
 git clone https://github.com/Kingbryden/InspireMe.git
 
 Open index.html in your browser.
+...
 
 Get Inspired!
 
