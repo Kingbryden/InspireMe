@@ -41,3 +41,36 @@
 
 ```bash
 git clone https://github.com/Kingbryden/InspireMe.git
+
+Open index.html in your browser.
+
+Get Inspired!
+
+
+
+---
+
+📡 API Reference
+
+Powered by Quotable API.
+
+
+
+---
+
+✍️ Author
+
+Kingbryden
+
+
+
+---
+
+📸 Screenshot
+
+
+
+
+---
+
+⭐ Stay Inspired. Stay Awesome. ⭐
