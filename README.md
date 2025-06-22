@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Bryden%20Profile!&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Bryden's%20Profile!&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <!-- Profile Picture -->
 <p align="center">
@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=500&center=true&lines=Web+Developer+%7C+Graphic+Designer;Automation+%7C+API+Dev+%7C+Code+Expert;Building+B2rPanel+%26+Dating+Platform;Lets+Create+Something+Cool+Today!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&width=480&center=true&lines=Web+Developer+%7C+Graphic+Designer;API+%7C+Automation+Expert;CEO+at+B2r+Brand;Let%27s+Build+Something+Cool!">
   </a>
 </p>
 
@@ -21,69 +21,20 @@
 
 ## 💼 About Me
 
-- CEO at [B2r Brand](https://www.b2rbrand.com)
-- Founder of [B2r Panel](https://www.b2rbrand.com) & [Dating Platform](https://www.b2rbrand.site)
-- Web Developer, Graphic Designer & Automation Expert
-- I love working with APIs, bots, and modern no-code tools
+- 👨‍💼 CEO at [B2r Brand](https://www.b2rbrand.com)
+- 🔧 Building [B2r Panel](https://www.b2rbrand.com) & [Dating Platform](https://www.b2rbrand.site)
+- 👨‍💻 Passionate Developer & Graphic Designer
+- 🚀 Expert in APIs, No-Code, Automation & Branding
 
 ---
 
-## 📂 Portfolio Highlights
+## 📂 Portfolio Projects
 
-### ⚡ B2r Panel
-[![Live Site](https://img.shields.io/badge/SMM%20Panel-Live-green?style=for-the-badge&logo=vercel)](https://www.b2rbrand.com)
-
-> 🚀 SMM automation panel  
-> 🔌 API integrations for instant delivery
-
----
-
-### 💘 Dating Platform
-[![Visit Site](https://img.shields.io/badge/Dating%20Platform-Visit-red?style=for-the-badge&logo=firefox-browser)](https://www.b2rbrand.site)
-
-> ❤️ Smart matchmaking  
-> 🔐 Secure backend logic
-
----
-
-### 🤖 ALPHA Bot
-[![Replit](https://img.shields.io/badge/Try%20Bot-Replit-blue?style=for-the-badge&logo=replit)](https://replit.com/@Kingbryden/ALPHA-BOT)
-
-> 🤖 Telegram/Discord automation  
-> 🧠 Node.js + custom commands
-
----
-
-### 🔒 B2r Auth System *(Coming Soon)*
-> 🛡️ OTP + JWT auth  
-> 🧩 Built for Node.js projects
-
----
-
-## 📱 Connect with Me
-
-[![Email](https://img.shields.io/badge/Email-bryden@b2rbrand.com-red?style=for-the-badge&logo=gmail)](mailto:bryden@b2rbrand.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255689997037)
-[![Threads](https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@b2r_panel)
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@b2r_panel)
-[![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@b2r_panel)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/b2r_panel)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/b2r_panel)
-
----
-
-<div align="center">
-
-## 🕒 Live Time in Tanzania (Dar es Salaam)
-
-[![Live Clock](https://img.shields.io/badge/Click_To_View-Live_Clock-green?style=for-the-badge&logo=clockify)](https://yourusername.github.io/live-clock/)
-
-> GMT+3 | EAT (East Africa Time)
-
-### 🌦️ Weather
-![Weather](https://wttr.in/Dar%20es%20Salaam.png?1)
-
-</div>
+| Project        | Description                                      | Link |
+|----------------|--------------------------------------------------|------|
+| 💼 **B2r Panel** | Full SMM Automation Panel                        | [Visit](https://www.b2rbrand.com) |
+| 💘 **Dating Platform** | Secure & Custom Matchmaking Site              | [Visit](https://www.b2rbrand.site) |
+| 🤖 **ALPHA Bot**      | Telegram/Discord bot with Node.js & APIs     | [Try It](https://replit.com/@Kingbryden/ALPHA-BOT) |
 
 ---
 
@@ -100,13 +51,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kingbryden&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingbryden&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kingbryden&show_icons=true&theme=radical" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingbryden&layout=compact&theme=radical" width="48%" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kingbryden&theme=radical" alt="GitHub Streak" width="90%"/>
+  <img src="https://streak-stats.demolab.com?user=Kingbryden&theme=radical" width="90%" alt="GitHub Streak"/>
 </p>
+
+---
 
 ## 🏆 GitHub Trophies
 
@@ -116,14 +69,56 @@
 
 ---
 
-## 👀 Visitor Counter
+<!-- Optional Snake Contribution Graph -->
+<!-- 
+## 🐍 Contribution Graph
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kingbryden&label=Profile%20views)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kingbryden/Kingbryden/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+</p>
+-->
 
 ---
 
-> **Crafted with passion, precision, and a sprinkle of B2r magic!**
+## 🌐 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-bryden@b2rbrand.com-red?style=for-the-badge&logo=gmail)](mailto:bryden@b2rbrand.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255689997037)
+[![Threads](https://img.shields.io/badge/Threads-black?style=for-the-badge&logo=threads)](https://www.threads.net/@b2r_panel)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@b2r_panel)
+[![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@b2r_panel)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/b2r_panel)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/b2r_panel)
+
+---
+
+## 🌍 Time & Weather
+
+<p align="center">
+  <a href="https://yourusername.github.io/live-clock/">
+    <img src="https://img.shields.io/badge/Live_Time-Tanzania-green?style=for-the-badge&logo=clockify" alt="Live Time" />
+  </a>
+</p>
+
+> Timezone: GMT+3 (East Africa Time)  
+> Weather:
+
+<p align="center">
+  <img src="https://wttr.in/Dar%20es%20Salaam.png?1" alt="Dar es Salaam Weather"/>
+</p>
+
+---
+
+## 👀 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kingbryden&label=Profile%20views" alt="Profile Views" />
+</p>
+
+---
+
+> **Crafted with precision, powered by passion — The B2r Way!**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/5kq0GCjHA8Rwc/giphy.gif" width="300" alt="Tanzania Flag Animation">
+  <img src="https://media.giphy.com/media/5kq0GCjHA8Rwc/giphy.gif" width="280" alt="Tanzania Flag Animation">
 </div>
