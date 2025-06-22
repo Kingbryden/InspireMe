@@ -97,18 +97,16 @@
 
 ---
 
-## 📈 GitHub Stats & Streak
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kingbryden&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingbryden&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kingbryden&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingbryden&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kingbryden&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Kingbryden&theme=radical" alt="GitHub Streak" width="90%"/>
 </p>
-
----
 
 ## 🏆 GitHub Trophies
 
