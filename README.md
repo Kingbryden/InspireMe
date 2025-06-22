@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=500&center=true&lines=Web+Developer+%7C+Graphic+Designer;Automation+%7C+API+Dev+%7C+Code+Expert;Building+B2rPanel+%26+Dating+Platform;Let%27s+Create+Something+Cool+Today!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=500&center=true&lines=Web+Developer+%7C+Graphic+Designer;Automation+%7C+API+Dev+%7C+Code+Expert;Building+B2rPanel+%26+Dating+Platform;Lets+Create+Something+Cool+Today!">
   </a>
 </p>
 
@@ -21,17 +21,42 @@
 
 ## 💼 About Me
 
-- CEO of [B2r Brand](https://www.b2rbrand.com)
-- Builder of [B2r Panel](https://www.b2rbrand.com) & [Custom Dating Platform](https://www.b2rbrand.site)
-- Full-stack Web Developer, Graphic Designer, and Automation Expert
-- Passionate about solving real-world problems with clean code & automation
-- Always learning, building, and leveling up!
+- CEO at [B2r Brand](https://www.b2rbrand.com)
+- Founder of [B2r Panel](https://www.b2rbrand.com) & [Dating Platform](https://www.b2rbrand.site)
+- Web Developer, Graphic Designer & Automation Expert
+- I love working with APIs, bots, and modern no-code tools
 
 ---
 
-## 🔥 Highlight
+## 📂 Portfolio Highlights
 
-![Preview](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+### ⚡ B2r Panel
+[![Live Site](https://img.shields.io/badge/SMM%20Panel-Live-green?style=for-the-badge&logo=vercel)](https://www.b2rbrand.com)
+
+> 🚀 SMM automation panel  
+> 🔌 API integrations for instant delivery
+
+---
+
+### 💘 Dating Platform
+[![Visit Site](https://img.shields.io/badge/Dating%20Platform-Visit-red?style=for-the-badge&logo=firefox-browser)](https://www.b2rbrand.site)
+
+> ❤️ Smart matchmaking  
+> 🔐 Secure backend logic
+
+---
+
+### 🤖 ALPHA Bot
+[![Replit](https://img.shields.io/badge/Try%20Bot-Replit-blue?style=for-the-badge&logo=replit)](https://replit.com/@Kingbryden/ALPHA-BOT)
+
+> 🤖 Telegram/Discord automation  
+> 🧠 Node.js + custom commands
+
+---
+
+### 🔒 B2r Auth System *(Coming Soon)*
+> 🛡️ OTP + JWT auth  
+> 🧩 Built for Node.js projects
 
 ---
 
@@ -49,13 +74,13 @@
 
 <div align="center">
 
-## 🕒 Tanzania — Live Time
+## 🕒 Live Time in Tanzania (Dar es Salaam)
 
-[![Live Clock](https://img.shields.io/badge/Check_Live_Time-Click_Here-green?style=for-the-badge&logo=clockify)](https://time.is/Dar_es_Salaam)
+[![Live Clock](https://img.shields.io/badge/Click_To_View-Live_Clock-green?style=for-the-badge&logo=clockify)](https://yourusername.github.io/live-clock/)
 
-> Timezone: GMT+3 | EAT (East Africa Time)
+> GMT+3 | EAT (East Africa Time)
 
-### 🌤️ Current Weather in Dar es Salaam
+### 🌦️ Weather
 ![Weather](https://wttr.in/Dar%20es%20Salaam.png?1)
 
 </div>
@@ -69,48 +94,27 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 
 ---
 
-## 📈 GitHub Stats & Trophies
+## 📈 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kingbryden&theme=radical&row=2&column=3" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kingbryden&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingbryden&layout=compact&theme=radical" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kingbryden&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingbryden&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kingbryden&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kingbryden&theme=radical" alt="Contribution Graph" />
+  <img src="https://streak-stats.demolab.com?user=Kingbryden&theme=radical" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 GitHub Trophies
 
-- 🎯 **[B2r Panel](https://www.b2rbrand.com/)** – SMM Panel for social automation & API integration
-- ❤️ **[Dating Platform](https://www.b2rbrand.site/)** – Custom-coded matchmaking engine with user filtering
-- 🤖 **[ALPHA Bot](https://replit.com/@Kingbryden/ALPHA-BOT)** – Telegram/Discord bot automation with Node.js
-
----
-
-## 🧠 Community Contributions
-
-I actively contribute to:
-
-- 🔧 **[SocPanel](https://github.com/socpanel)** – Tools for SMM automation
-- 🌐 **[Awesome Web Dev](https://github.com/awesome-web-dev)** – Curated frontend/backend dev resources
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kingbryden&theme=radical&row=2&column=3" />
+</p>
 
 ---
 
@@ -120,11 +124,7 @@ I actively contribute to:
 
 ---
 
-## 🧠 Quote I Live By
-
-> _"Turning ideas into digital reality one project at a time."_
-
----
+> **Crafted with passion, precision, and a sprinkle of B2r magic!**
 
 <div align="center">
   <img src="https://media.giphy.com/media/5kq0GCjHA8Rwc/giphy.gif" width="300" alt="Tanzania Flag Animation">
